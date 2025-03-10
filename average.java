@@ -10,5 +10,6 @@ public class average {
         int june =sc.nextInt();
         int result = (april+may+june)/3;
         System.out.print("Average Synset Entered :"+result);
+        sc.close();
     }
 }
